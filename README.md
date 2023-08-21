@@ -1,12 +1,8 @@
 # [kanye.rest](https://kanye.rest)
 
-Аналог сервиса Kanye.rest, написанный на Express.
-Используется в качестве примера веб-приложения в уроке по докеризации веб-приложения в курсе "Веб-разработчик плюс" 
-Яндекс.Практикум. 
+An analogue of the Kanye.rest service written in Express.
 
-Докеризированная версия приложения доступна в ветке [feature/dockerize](https://github.com/yandex-praktikum/kanye.rest/tree/feature/dockerize)
- 
-## Примеры использования API
+## API examples
 
 ### `GET` [https://localhost:3000](https://localhost:3000)
 
